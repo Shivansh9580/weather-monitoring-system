@@ -74,7 +74,7 @@ build.bat
 
 
 ## Check Alerts and Visuals:
-The console will display alerts for high temperatures.
+The console will display alerts for high temperatures.<br>
 A real-time plot of temperature trends will open, displaying data for each monitored city.
 
 
