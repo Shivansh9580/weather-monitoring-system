@@ -8,7 +8,7 @@ A real-time weather monitoring system that collects and visualizes weather data 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [License](#license)
+
 
 
 ## Features
